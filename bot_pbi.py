@@ -58,3 +58,7 @@ while a:
     bot_pbi.click_f()
     print(f"Esta es la iteracion Numero: {contador}")
     contador = contador + 1
+
+print("Modificacion ")
+print("Modificacion ")
+print("Modificacion ")
